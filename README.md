@@ -21,6 +21,8 @@ These together allow us to use map and lambda on all 5 requests simultaneously; 
 errors and printing/returning alot of unnecessary infroamtion or charaters.
 
 --Screenshots:
+
+
 <img width="545" height="706" alt="Scraper image 1" src="https://github.com/user-attachments/assets/12a32395-fcb9-4d51-966d-64bc10ce4c5f" />
 <img width="602" height="671" alt="Scraper image 2" src="https://github.com/user-attachments/assets/1790e85e-810c-48d0-8142-7748f891ead0" />
 <img width="555" height="816" alt="Scraper Image 3" src="https://github.com/user-attachments/assets/cd4d8ce0-6f45-46c8-8154-c9cff06cd5c2" />
