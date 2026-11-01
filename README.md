@@ -25,4 +25,6 @@ errors and printing/returning alot of unnecessary infroamtion or charaters.
 <img width="602" height="671" alt="Scraper image 2" src="https://github.com/user-attachments/assets/1790e85e-810c-48d0-8142-7748f891ead0" />
 <img width="555" height="816" alt="Scraper Image 3" src="https://github.com/user-attachments/assets/cd4d8ce0-6f45-46c8-8154-c9cff06cd5c2" />
 <img width="590" height="820" alt="Scraper Image 4" src="https://github.com/user-attachments/assets/99c1dd88-333f-4530-8633-93b76a3bda07" />
+
+
 (For better viewability and incase these dont work, I added the screenshots directly into the repository)
